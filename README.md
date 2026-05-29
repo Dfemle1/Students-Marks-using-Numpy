@@ -1,6 +1,6 @@
 # Students-Marks-using-Numpy
 
- import numpy as np
+>>> import numpy as np
 >>> marks = np.array([67, 78, 98, 89, 79, 67, 79, 95, 68, 97, 93, 59, 81, 79, 99])
 >>> mean = np.mean(marks)
 >>> top = np.max(marks)
