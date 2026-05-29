@@ -6,7 +6,7 @@
 >>> top = np.max(marks)
 >>> avg = marks[marks < 40]
 >>> grade = np.percentile(marks, 75)
->>>print("Mean Marks:", mean)
+>>> print("Mean Marks:", mean)
 >>> print("Top marks:", top)
 >>> print("Average Student:", avg)
 >>> print("Top 25% cutoff:", grade)
